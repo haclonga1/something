@@ -6,3 +6,6 @@ git push origin main
 git add .
 git commit -m "test lần 2"
 git push origin main
+git add .
+git commit -m "test lần 3"
+git push origin main
