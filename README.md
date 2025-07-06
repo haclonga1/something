@@ -27,3 +27,4 @@ while true; do
   sleep $INTERVAL
 done
 4
+5
