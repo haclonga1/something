@@ -26,3 +26,4 @@ while true; do
   echo "Đã push lên GitHub lúc $(date)"
   sleep $INTERVAL
 done
+4
